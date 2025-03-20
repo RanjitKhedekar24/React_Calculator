@@ -1,0 +1,17 @@
+.calculator {
+  width: 300px;
+  background-color: #343a40; /* Dark background for calculator */
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  border: 1px solid #495057;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  justify-content: center;
+  background-color: #212529; /* Dark background for the page */
+}
